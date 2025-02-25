@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi 🔭
+
+Tenho estudado bastante IA, Mercado imobiliário, Forex trading, plugins pro VSCode, obsidian...
+
+"Você não consegue ultrapassar 15 carros com o tempo ensolarado... mas consegue quando está chovendo". Ayrton Senna.
+
+SÓ VAMO!
 
 <!--
 **maiorf/maiorf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
